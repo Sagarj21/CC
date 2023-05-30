@@ -1,0 +1,20 @@
+vm1
+=====
+1 ifconfig
+2 sudo apt install net-tools
+3 touch sid.txt
+4 nano sid.txt
+5 scp sid.txt vagrant@10.0.2.6:/home/vagrant
+
+vm2
+====
+
+vagrant@vagrant:"$ history 4 cat sid.txt
+
+1 if config
+
+2 sudo apt install net-tools
+
+3 ls
+
+4 cat sid.txt

@@ -1,0 +1,11 @@
+    2  mkdir PythonProject
+    3  ls
+    4  cd PythonProject
+    5  ls
+    6  gcloud app deploy
+
+   10  gcloud app deploy
+
+   19  ls
+
+   22  history
